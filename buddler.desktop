@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Buddler
+GenericName=Buddler Game
+Exec=buddler
+Icon=buddler
+Terminal=false
+Categories=Game;
