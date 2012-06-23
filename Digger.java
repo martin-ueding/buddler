@@ -80,6 +80,7 @@ public class Digger extends JPanel {
 		}
 
 		final JFrame f = new JFrame("Digger");
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setSize(400, 420);
 		f.add(new Digger());
 
